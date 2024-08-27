@@ -1,0 +1,8 @@
+# Ignoră fișierele de configurare sensibile
+.env
+
+# Ignoră directorul node_modules
+node_modules/
+
+# Ignoră fișierele de log
+*.log
